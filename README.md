@@ -1,0 +1,2 @@
+# MyFirstGitHubLec
+Exploring Basics1
